@@ -1,3 +1,3 @@
 # first git & vue practice
 
-Getting better!
+It's getting fun!
